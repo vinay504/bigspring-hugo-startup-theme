@@ -32,7 +32,7 @@ feature:
     icon: fas fa-tachometer-alt
     content: Gives professional Native Android look to your app. Handy shortcuts for
       easy navigations for your users.
-  - name: Cloud Support
+  - name: Upload download and Camera features
     icon: fas fa-cloud
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
 service:
