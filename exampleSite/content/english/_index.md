@@ -34,7 +34,8 @@ feature:
       easy navigations for your users.
   - name: Upload download and Camera features
     icon: fas fa-cloud
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Integrate special permission access with your android app for the smooth
+      user experiance
 service:
   enable: true
   service_item:
