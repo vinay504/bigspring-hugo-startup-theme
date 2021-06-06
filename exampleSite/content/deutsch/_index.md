@@ -13,9 +13,10 @@ feature:
   enable: true
   title: हमारे पेशेवर रूप से निर्मित ऐप द्वारा आपको मिलने वाली सुविधाएँ
   feature_item:
-  - name: Clean Code
+  - name: ऑटो अपडेट
     icon: fas fa-code
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: आप अपनी वेबसाइट में जो भी बदलाव करेंगे, वे आपके Android ऐप में अपने आप
+      अपडेट हो जाएंगे
   - name: Object Oriented
     icon: fas fa-object-group
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
