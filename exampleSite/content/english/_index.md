@@ -12,7 +12,7 @@ feature:
   enable: true
   title: Features you will get by our professionally built app
   feature_item:
-  - name: Auto update
+  - name: Auto Update
     icon: fas fa-code
     content: Any changes you make in your website will be automatically updated in
       your android app
