@@ -33,9 +33,10 @@ feature:
     icon: fas fa-tachometer-alt
     content: आपके ऐप को पेशेवर नेटिव एंड्रॉइड लुक देता है। आपके उपयोगकर्ताओं के लिए
       आसान नेविगेशन के लिए आसान शॉर्टकट।
-  - name: Cloud Support
+  - name: Upload download and Camera features
     icon: fas fa-cloud
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Integrate special permission access with your android app for the smooth
+      user experiance
 service:
   enable: true
   service_item:
