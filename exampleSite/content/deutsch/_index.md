@@ -7,8 +7,8 @@ banner:
     अपनी वेबसाइट के ट्रैफ़िक और जुड़ाव को नए तरीके से बढ़ाएँ
   button:
     enable: true
-    label: Contact With Us
-    link: contact
+    label: हमसे संपर्क करें
+    link: https://forms.gle/Spwmajux3ZkXULUt5
 feature:
   enable: true
   title: Something You Need To Know
