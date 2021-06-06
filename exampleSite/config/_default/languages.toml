@@ -2,9 +2,9 @@
 contentDir = "content/deutsch"
 copyright = "Copyright ©2021 by Bakales Software. All Right Reserved"
 footer_content = "राहकों की संतुष्टि हमारी प्रमुख प्राथमिकता है। निम्नलिखित सोशल मीडिया से जुड़ें।"
-footer_menu_left = "Firma"
-footer_menu_middle = "Produkte"
-footer_menu_right = "Support"
+footer_menu_left = "कंपनी"
+footer_menu_middle = "उत्पाद"
+footer_menu_right = "सहयोग"
 languageName = "Hi"
 title = "Bakales Software"
 weight = 2
