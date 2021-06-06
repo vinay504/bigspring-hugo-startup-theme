@@ -24,9 +24,10 @@ feature:
     icon: fas fa-user-clock
     content: Update your user with every new offer or blog post written by you with
       push notification
-  - name: Value For Money
+  - name: Star Rating Dialog
     icon: fas fa-heart
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Encorage your user to give feedback in a effective way. Rank your app
+      in playstore search engine.
   - name: Faster Response
     icon: fas fa-tachometer-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
