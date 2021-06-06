@@ -17,7 +17,7 @@ feature:
     content: Any changes you make in your website will be automatically updated in
       your android app
   - name: Admob integration
-    icon: fas fa-object-group
+    icon: ''
     content: 'Increase your earning potential and monetize your app with google banner
       and intertitial ads '
   - name: 24h Service
