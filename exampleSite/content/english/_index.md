@@ -2,9 +2,8 @@
 banner:
   title: Convert your website into <br> Android App
   image: images/banner-art.svg
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  content: Grab the advantages of mobile market & Google playstore <br> Increase your
+    website traffic and engagement in a new way
   button:
     enable: true
     label: Contact With Us
