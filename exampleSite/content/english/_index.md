@@ -28,9 +28,10 @@ feature:
     icon: fas fa-heart
     content: Encorage your user to give feedback in a effective way. Rank your app
       in playstore search engine.
-  - name: Faster Response
+  - name: Inbuilt menu shortcuts
     icon: fas fa-tachometer-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Gives professional Native Android look to your app. Handy shortcuts for
+      easy navigations for your users.
   - name: Cloud Support
     icon: fas fa-cloud
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
