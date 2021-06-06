@@ -27,7 +27,8 @@ feature:
       साथ अपने उपयोगकर्ता को अपडेट करें
   - name: Value For Money
     icon: fas fa-heart
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: प्रभावी तरीके से प्रतिक्रिया देने के लिए अपने उपयोगकर्ता को प्रोत्साहित
+      करें। अपने ऐप को प्लेस्टोर सर्च इंजन में रैंक करें।
   - name: Faster Response
     icon: fas fa-tachometer-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
