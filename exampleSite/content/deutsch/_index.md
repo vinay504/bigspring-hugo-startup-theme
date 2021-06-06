@@ -23,7 +23,8 @@ feature:
       के साथ मुद्रीकृत करें
   - name: 24h Service
     icon: fas fa-user-clock
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: पुश नोटिफिकेशन के साथ आपके द्वारा लिखे गए हर नए ऑफ़र या ब्लॉग पोस्ट के
+      साथ अपने उपयोगकर्ता को अपडेट करें
   - name: Value For Money
     icon: fas fa-heart
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
