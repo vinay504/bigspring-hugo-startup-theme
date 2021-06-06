@@ -31,7 +31,8 @@ feature:
       करें। अपने ऐप को प्लेस्टोर सर्च इंजन में रैंक करें।
   - name: Faster Response
     icon: fas fa-tachometer-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: आपके ऐप को पेशेवर नेटिव एंड्रॉइड लुक देता है। आपके उपयोगकर्ताओं के लिए
+      आसान नेविगेशन के लिए आसान शॉर्टकट।
   - name: Cloud Support
     icon: fas fa-cloud
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
