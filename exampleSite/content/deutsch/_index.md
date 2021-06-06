@@ -17,9 +17,10 @@ feature:
     icon: fas fa-code
     content: आप अपनी वेबसाइट में जो भी बदलाव करेंगे, वे आपके Android ऐप में अपने आप
       अपडेट हो जाएंगे
-  - name: Object Oriented
+  - name: Admob एकीकरण
     icon: fas fa-object-group
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: अपनी कमाई की क्षमता बढ़ाएं और अपने ऐप को Google बैनर और मध्यवर्ती विज्ञापनों
+      के साथ मुद्रीकृत करें
   - name: 24h Service
     icon: fas fa-user-clock
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
