@@ -35,8 +35,8 @@ feature:
       आसान नेविगेशन के लिए आसान शॉर्टकट।
   - name: Upload download and Camera features
     icon: fas fa-cloud
-    content: Integrate special permission access with your android app for the smooth
-      user experiance
+    content: सहज उपयोगकर्ता अनुभव के लिए अपने एंड्रॉइड ऐप के साथ विशेष अनुमति एक्सेस
+      को एकीकृत करें
 service:
   enable: true
   service_item:
