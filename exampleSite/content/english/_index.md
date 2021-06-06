@@ -20,9 +20,10 @@ feature:
     icon: fas fa-object-group
     content: 'Increase your earning potential and monetize your app with google banner
       and intertitial ads '
-  - name: 24h Service
+  - name: Push Notification
     icon: fas fa-user-clock
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Update your user with every new offer or blog post written by you with
+      push notification
   - name: Value For Money
     icon: fas fa-heart
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
