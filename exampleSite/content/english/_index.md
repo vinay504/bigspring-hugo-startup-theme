@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: Contact With Us
-    link: contact
+    link: https://forms.gle/Spwmajux3ZkXULUt5
 feature:
   enable: true
   title: Something You Need To Know
