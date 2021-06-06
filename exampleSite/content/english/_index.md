@@ -12,9 +12,10 @@ feature:
   enable: true
   title: Features you will get by our professionally built app
   feature_item:
-  - name: Clean Code
+  - name: Auto update
     icon: fas fa-code
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Any changes you make in your website will be automatically updated in
+      your android app
   - name: Object Oriented
     icon: fas fa-object-group
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
