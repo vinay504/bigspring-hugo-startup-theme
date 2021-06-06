@@ -11,7 +11,7 @@ banner:
     link: https://forms.gle/Spwmajux3ZkXULUt5
 feature:
   enable: true
-  title: Something You Need To Know
+  title: हमारे पेशेवर रूप से निर्मित ऐप द्वारा आपको मिलने वाली सुविधाएँ
   feature_item:
   - name: Clean Code
     icon: fas fa-code
