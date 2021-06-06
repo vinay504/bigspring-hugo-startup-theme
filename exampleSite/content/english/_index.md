@@ -10,7 +10,7 @@ banner:
     link: https://forms.gle/Spwmajux3ZkXULUt5
 feature:
   enable: true
-  title: Something You Need To Know
+  title: Features you will get by our professionally built app
   feature_item:
   - name: Clean Code
     icon: fas fa-code
