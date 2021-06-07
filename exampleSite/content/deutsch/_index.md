@@ -86,7 +86,7 @@ service:
       लिए तुरंत उच्च-गुणवत्ता वाली कॉपी जेनरेट करें...
     button:
       enable: true
-      label: youtube पर हमारा ऐप डेमो वीडियो देखें
+      label: इसकी जांच - पड़ताल करें
       link: https://conversion.ai?fpr=bakales
 screenshot:
   enable: true
