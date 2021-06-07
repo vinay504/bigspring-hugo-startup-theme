@@ -52,14 +52,13 @@ service:
       enable: false
       label: Check it out
       link: "#"
-  - title: It is a privately owned Information and cyber security company
+  - title: Stay ahead of your competition with your Android Webview App
     images:
     - images/service-1.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Today, Android remains the dominant operating system globally, with a
+      76% market share. Start your journey with android app and later we can make
+      iOS app for you which has 23% market share globally. To test your website how
+      it will look download our app from playstore.
     button:
       enable: true
       label: Check it out
