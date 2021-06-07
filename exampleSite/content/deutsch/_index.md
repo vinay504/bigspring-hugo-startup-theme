@@ -42,9 +42,9 @@ service:
   service_item:
   - title: ऐप मार्केट की क्षमता को उजागर करें
     images:
-    - images/service-1.png
-    - images/service-2.png
-    - images/service-3.png
+    - images/callphone.jpg
+    - images/smartphone.png
+    - images/pokemon.jpg
     content: वैश्विक आंकड़ों के अनुसार, 56% लोग डेस्कटॉप की तुलना में मोबाइल डिवाइस
       पर अधिक समय व्यतीत करते हैं। भविष्य में इसके बढ़ने की उम्मीद है क्योंकि अधिक
       से अधिक लोग अपने मोबाइल उपकरणों द्वारा आसानी से इंटरनेट से जुड़ते हैं। वर्तमान
