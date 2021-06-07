@@ -30,7 +30,7 @@ name = "घर"
 url = "/"
 weight = 1
 [[main]]
-name = "Pricing"
+name = "मूल्य निर्धारण"
 url = "pricing"
 weight = 3
 [[main]]
