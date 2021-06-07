@@ -98,8 +98,8 @@ call_to_action:
   enable: true
   title: Ready to get started?
   image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  content: ग्राहकों की संतुष्टि हमारी प्रमुख प्राथमिकता है। हमें संपर्क करने के लिए
+    स्वतंत्र महसूस करें
   button:
     enable: true
     label: Contact Us
