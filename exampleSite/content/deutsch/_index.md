@@ -42,7 +42,7 @@ service:
   service_item:
   - title: ऐप मार्केट की क्षमता को उजागर करें
     images:
-    - images/callphone.jpg
+    - images/cellphone.jpg
     - images/smartphone.png
     - images/pokemon.jpg
     content: वैश्विक आंकड़ों के अनुसार, 56% लोग डेस्कटॉप की तुलना में मोबाइल डिवाइस
@@ -55,7 +55,7 @@ service:
       link: "#"
   - title: अपने प्रतिस्पर्धियों से आगे रहें
     images:
-    - images/service-1.png
+    - images/android.png
     content: आज, एंड्रॉइड 76% बाजार हिस्सेदारी के साथ विश्व स्तर पर प्रमुख ऑपरेटिंग
       सिस्टम बना हुआ है। एंड्रॉइड ऐप के साथ अपनी यात्रा शुरू करें और बाद में हम आपके
       लिए आईओएस ऐप बना सकते हैं जिसकी वैश्विक स्तर पर 23% बाजार हिस्सेदारी है। अपनी
@@ -67,7 +67,7 @@ service:
       link: "#"
   - title: It’s a team of experienced and skilled people with distributions
     images:
-    - images/service-2.png
+    - images/social-media.png
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
       eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
       sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
