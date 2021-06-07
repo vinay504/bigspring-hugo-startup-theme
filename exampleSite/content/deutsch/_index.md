@@ -81,11 +81,9 @@ service:
   - title: A company standing different from others
     images:
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: बढ़े हुए रूपांतरणों और उच्च ROI के लिए सिद्ध, उच्च कनवर्टिंग कॉपी लिखने
+      के लिए AI का उपयोग करें। विज्ञापनों, ईमेल, वेबसाइटों, लिस्टिंग, ब्लॉग आदि के
+      लिए तुरंत उच्च-गुणवत्ता वाली कॉपी जेनरेट करें...
     button:
       enable: true
       label: Check it out
