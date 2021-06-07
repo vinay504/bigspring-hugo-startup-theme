@@ -39,7 +39,7 @@ feature:
 service:
   enable: true
   service_item:
-  - title: It is the most advanced digital marketing and it company.
+  - title: Unleash the potential of app market. Stay ahead of the competition.
     images:
     - images/service-1.png
     - images/service-2.png
