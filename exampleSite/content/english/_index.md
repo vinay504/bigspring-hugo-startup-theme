@@ -90,7 +90,7 @@ service:
       label: Check it out
       link: "#"
 screenshot:
-  enable: false
+  enable: true
   title: Experience the best <br> workflow with us
   image: images/user-interface.png
 call_to_action:
