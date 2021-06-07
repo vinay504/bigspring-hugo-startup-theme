@@ -68,11 +68,12 @@ service:
   - title: It’s a team of experienced and skilled people with distributions
     images:
     - images/social-media.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Android ऐप से आप playstore ASO का लाभ प्राप्त कर सकते हैं जो अंततः आपकी
+      वेबसाइट पर अधिक ट्रैफ़िक प्राप्त करने में आपकी सहायता करेगा। यदि आप कोई उत्पाद
+      बेच रहे हैं तो आप अधिक ROI की अपेक्षा कर सकते हैं। पुश सूचना अंततः आपकी साइट
+      पर उपयोगकर्ता जुड़ाव में आपकी सहायता करेगी। हमने सभी उन्नत सुविधाओं को शामिल
+      किया है जो आपको अपने लक्ष्यों तक पहुंचने में मदद करेंगी। youtube पर हमारा ऐप
+      वीडियो देखें
     button:
       enable: true
       label: Check it out
