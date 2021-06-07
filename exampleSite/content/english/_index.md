@@ -1,7 +1,7 @@
 ---
 banner:
   title: Convert your website into <br> Android App
-  image: images/service-1.jpg
+  image: images/banner-art.svg
   content: Grab the advantages of mobile market & Google playstore <br> Increase your
     website traffic and engagement in a new way
   button:
