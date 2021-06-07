@@ -98,7 +98,7 @@ call_to_action:
   title: Ready to get started?
   image: images/cta.svg
   content: Customer satisfaction is our prime priority. <br> Feel free to contact
-    us
+    us.
   button:
     enable: true
     label: Contact Us
