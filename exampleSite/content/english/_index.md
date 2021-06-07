@@ -41,9 +41,9 @@ service:
   service_item:
   - title: Unleash the potential of app market
     images:
-    - images/service-1.png
-    - images/service-2.png
-    - images/service-3.png
+    - images/cellphone.jpg
+    - images/smarphone.png
+    - images/pokemon.jpg
     content: As per global stat 56% of people spend more time on mobile device as
       compared to the desktop. It is expected to grow in future as more peoples connect
       with the internet easily by their mobile devices. Currently there are 1.46 billion
