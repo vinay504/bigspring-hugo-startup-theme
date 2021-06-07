@@ -1,7 +1,7 @@
 ---
 banner:
   title: अपनी वेबसाइट को कन्वर्ट करें एंड्रॉइड ऐप मे
-  image: images/banner-art.svg
+  image: images/banner-start.png
   content: |-
     मोबाइल बाजार और Google playstore के लाभों को प्राप्त करें <br>
     अपनी वेबसाइट के ट्रैफ़िक और जुड़ाव को नए तरीके से बढ़ाएँ
