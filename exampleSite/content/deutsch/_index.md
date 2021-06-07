@@ -56,11 +56,11 @@ service:
   - title: It is a privately owned Information and cyber security company
     images:
     - images/service-1.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: आज, एंड्रॉइड 76% बाजार हिस्सेदारी के साथ विश्व स्तर पर प्रमुख ऑपरेटिंग
+      सिस्टम बना हुआ है। एंड्रॉइड ऐप के साथ अपनी यात्रा शुरू करें और बाद में हम आपके
+      लिए आईओएस ऐप बना सकते हैं जिसकी वैश्विक स्तर पर 23% बाजार हिस्सेदारी है। अपनी
+      वेबसाइट का परीक्षण करने के लिए कि यह कैसी दिखेगी, प्लेस्टोर से हमारा ऐप डाउनलोड
+      करें।
     button:
       enable: true
       label: Check it out
