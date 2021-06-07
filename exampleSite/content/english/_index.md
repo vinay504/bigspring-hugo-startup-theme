@@ -65,7 +65,7 @@ service:
       link: "#"
   - title: Increase your website traffic and user engagment
     images:
-    - images/social-media.png
+    - images/conversionai.png
     content: With the android app you can get the benefit of playstore ASO which will
       eventually help you to gain more traffic to your website. If you are selling
       any products you can expect more ROI. Push notification will eventually help
@@ -74,7 +74,7 @@ service:
     button:
       enable: true
       label: Check out our app demo video on youtube
-      link: "#"
+      link: ''
   - title: Sit back and let AI write your marketing copies
     images:
     - images/service-3.png
