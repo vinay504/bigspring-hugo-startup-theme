@@ -50,7 +50,7 @@ service:
       से अधिक लोग अपने मोबाइल उपकरणों द्वारा आसानी से इंटरनेट से जुड़ते हैं। वर्तमान
       में दुनिया में 1.46 बिलियन मोबाइल फोन उपयोगकर्ता हैं।
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
   - title: It is a privately owned Information and cyber security company
