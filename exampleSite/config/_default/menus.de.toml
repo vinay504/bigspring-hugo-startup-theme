@@ -34,7 +34,7 @@ name = "मूल्य निर्धारण"
 url = "pricing"
 weight = 3
 [[main]]
-name = "Contact"
+name = "संपर्क करें"
 url = "contact"
 weight = 4
 [[main]]
