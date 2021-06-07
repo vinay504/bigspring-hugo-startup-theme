@@ -23,7 +23,7 @@ url = "privacy-policy"
 name = "नियम एवं शर्तें"
 url = "terms-conditions"
 [[footer_right]]
-name = "FAQ"
+name = "सामान्य प्रश्न"
 url = "faq"
 [[main]]
 name = "घर"
