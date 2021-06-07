@@ -97,8 +97,7 @@ call_to_action:
   enable: true
   title: Ready to get started?
   image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  content: Customer satisfaction is our prime priority. Feel free to contact us
   button:
     enable: true
     label: Contact Us
