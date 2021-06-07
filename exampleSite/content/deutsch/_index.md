@@ -45,11 +45,10 @@ service:
     - images/service-1.png
     - images/service-2.png
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: वैश्विक आंकड़ों के अनुसार, 56% लोग डेस्कटॉप की तुलना में मोबाइल डिवाइस
+      पर अधिक समय व्यतीत करते हैं। भविष्य में इसके बढ़ने की उम्मीद है क्योंकि अधिक
+      से अधिक लोग अपने मोबाइल उपकरणों द्वारा आसानी से इंटरनेट से जुड़ते हैं। वर्तमान
+      में दुनिया में 1.46 बिलियन मोबाइल फोन उपयोगकर्ता हैं।
     button:
       enable: true
       label: Check it out
