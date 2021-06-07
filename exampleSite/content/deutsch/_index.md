@@ -53,7 +53,7 @@ service:
       enable: false
       label: Check it out
       link: "#"
-  - title: It is a privately owned Information and cyber security company
+  - title: अपने प्रतिस्पर्धियों से आगे रहें
     images:
     - images/service-1.png
     content: आज, एंड्रॉइड 76% बाजार हिस्सेदारी के साथ विश्व स्तर पर प्रमुख ऑपरेटिंग
