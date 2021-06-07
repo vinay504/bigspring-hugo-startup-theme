@@ -40,7 +40,7 @@ feature:
 service:
   enable: true
   service_item:
-  - title: It is the most advanced digital marketing and it company.
+  - title: ऐप मार्केट की क्षमता को उजागर करें
     images:
     - images/service-1.png
     - images/service-2.png
