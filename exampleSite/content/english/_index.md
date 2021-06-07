@@ -86,7 +86,7 @@ service:
     button:
       enable: true
       label: Check it out
-      link: "#"
+      link: https://conversion.ai?fpr=bakales
 screenshot:
   enable: true
   title: Publish Your Android App now on Playstore with Bakales
