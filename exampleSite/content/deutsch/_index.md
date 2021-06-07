@@ -92,7 +92,7 @@ service:
       link: "#"
 screenshot:
   enable: true
-  title: Experience the best <br> workflow with us
+  title: हमारे साथ Playstore पर अभी अपना Android ऐप प्रकाशित करें
   image: images/user-interface.png
 call_to_action:
   enable: true
