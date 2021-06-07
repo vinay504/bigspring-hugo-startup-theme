@@ -75,14 +75,12 @@ service:
       enable: true
       label: Check out our app demo video on youtube
       link: "#"
-  - title: A company standing different from others
+  - title: Sit back and let AI write your marketing copies
     images:
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Use AI to write proven, high converting copy for increased conversions
+      and higher ROI. Instantly generate high-quality copy for ads, emails, websites,
+      listings, blogs, and more...
     button:
       enable: true
       label: Check it out
