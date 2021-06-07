@@ -61,7 +61,7 @@ service:
       it will look download our app from playstore.
     button:
       enable: true
-      label: Check it out
+      label: Download our WebView Android App from Playstore
       link: "#"
   - title: It’s a team of experienced and skilled people with distributions
     images:
