@@ -91,7 +91,7 @@ service:
       link: "#"
 screenshot:
   enable: true
-  title: Experience the best <br> workflow with us
+  title: Publish Your Android App now on Playstore with us
   image: images/user-interface.png
 call_to_action:
   enable: true
