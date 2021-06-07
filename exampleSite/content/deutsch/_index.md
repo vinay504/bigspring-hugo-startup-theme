@@ -76,7 +76,7 @@ service:
       वीडियो देखें
     button:
       enable: true
-      label: Check it out
+      label: Youtube पर हमारा ऐप डेमो वीडियो देखें
       link: "#"
   - title: A company standing different from others
     images:
