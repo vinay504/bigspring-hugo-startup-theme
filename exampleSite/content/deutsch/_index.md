@@ -86,7 +86,7 @@ service:
       लिए तुरंत उच्च-गुणवत्ता वाली कॉपी जेनरेट करें...
     button:
       enable: true
-      label: Check it out
+      label: youtube पर हमारा ऐप डेमो वीडियो देखें
       link: "#"
 screenshot:
   enable: true
