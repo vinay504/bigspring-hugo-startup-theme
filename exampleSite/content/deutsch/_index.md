@@ -78,9 +78,9 @@ service:
       enable: true
       label: Youtube पर हमारा ऐप डेमो वीडियो देखें
       link: "#"
-  - title: A company standing different from others
+  - title: आराम से बैठें और AI को अपनी मार्केटिंग कॉपी लिखने दें
     images:
-    - images/service-3.png
+    - images/conversionai
     content: बढ़े हुए रूपांतरणों और उच्च ROI के लिए सिद्ध, उच्च कनवर्टिंग कॉपी लिखने
       के लिए AI का उपयोग करें। विज्ञापनों, ईमेल, वेबसाइटों, लिस्टिंग, ब्लॉग आदि के
       लिए तुरंत उच्च-गुणवत्ता वाली कॉपी जेनरेट करें...
