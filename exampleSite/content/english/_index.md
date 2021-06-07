@@ -91,7 +91,7 @@ service:
       link: "#"
 screenshot:
   enable: true
-  title: Publish Your Android App now on Playstore with us
+  title: Publish Your Android App now on Playstore with Bakales
   image: images/user-interface.png
 call_to_action:
   enable: true
