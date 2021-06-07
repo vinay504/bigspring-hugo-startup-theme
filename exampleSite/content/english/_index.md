@@ -39,7 +39,7 @@ feature:
 service:
   enable: true
   service_item:
-  - title: Unleash the potential of app market. Stay ahead of the competition.
+  - title: Unleash the potential of app market. Stay ahead of your competition.
     images:
     - images/service-1.png
     - images/service-2.png
