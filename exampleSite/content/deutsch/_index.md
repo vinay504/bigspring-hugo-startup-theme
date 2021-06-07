@@ -65,7 +65,7 @@ service:
       enable: true
       label: Playstore से हमारा WebView Android ऐप डाउनलोड करें
       link: "#"
-  - title: It’s a team of experienced and skilled people with distributions
+  - title: अपनी वेबसाइट का ट्रैफ़िक और उपयोगकर्ता जुड़ाव बढ़ाएँ
     images:
     - images/social-media.png
     content: Android ऐप से आप playstore ASO का लाभ प्राप्त कर सकते हैं जो अंततः आपकी
