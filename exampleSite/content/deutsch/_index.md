@@ -93,7 +93,7 @@ service:
 screenshot:
   enable: true
   title: Experience the best <br> workflow with us
-  image: images/screenshot.svg
+  image: images/user-interface.png
 call_to_action:
   enable: true
   title: Ready to get started?
