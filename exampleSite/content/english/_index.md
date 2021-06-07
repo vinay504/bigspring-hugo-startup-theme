@@ -54,7 +54,7 @@ service:
       link: "#"
   - title: Stay ahead of your competition
     images:
-    - images/android.png
+    - images/growth.png
     content: Today, Android remains the dominant operating system globally, with a
       76% market share. Start your journey with android app and later we can make
       iOS app for you which has 23% market share globally. To test your website how
