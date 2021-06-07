@@ -14,7 +14,7 @@ url = "pricing"
 name = "मंच"
 url = "#"
 [[footer_middle]]
-name = "Features"
+name = "विशेषताएं"
 url = "#"
 [[footer_right]]
 name = "Privacy Policy"
