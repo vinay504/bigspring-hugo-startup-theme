@@ -52,7 +52,7 @@ service:
       enable: false
       label: Check it out
       link: "#"
-  - title: Stay ahead of your competition with your Android Webview App
+  - title: Stay ahead of your competition
     images:
     - images/service-1.png
     content: Today, Android remains the dominant operating system globally, with a
