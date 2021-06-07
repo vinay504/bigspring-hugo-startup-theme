@@ -63,17 +63,17 @@ service:
       enable: true
       label: Download our WebView Android App from Playstore
       link: "#"
-  - title: It’s a team of experienced and skilled people with distributions
+  - title: Increase your website traffic and user engagment
     images:
     - images/social-media.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: With the android app you can get the benefit of playstore ASO which will
+      eventually help you to gain more traffic to your website. If you are selling
+      any products you can expect more ROI. Push notification will eventually help
+      you with user engagement on your site. We have included all advanced features
+      which will help you to reach your goals. Check out our app video on youtube
     button:
       enable: true
-      label: Check it out
+      label: Check out our app demo video on youtube
       link: "#"
   - title: A company standing different from others
     images:
