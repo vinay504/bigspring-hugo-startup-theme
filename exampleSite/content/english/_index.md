@@ -23,7 +23,7 @@ feature:
   - name: Push Notification
     icon: fas fa-user-clock
     content: Update your user with every new offer or blog post written by you with
-      push notification
+      push notifications
   - name: Star Rating Dialog
     icon: fas fa-heart
     content: Encorage your user to give feedback in a effective way. Rank your app
