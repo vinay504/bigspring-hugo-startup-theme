@@ -37,9 +37,9 @@ business:
   price_per: One Time
   info: Best For Bloggers
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
+  - Splash Screen
+  - No Internet Detection
+  - Swipe to refresh
   button:
     enable: true
     label: Get started for free
