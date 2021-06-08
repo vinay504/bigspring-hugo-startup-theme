@@ -43,7 +43,7 @@ business:
   name: Professional Webview App
   price: "$20"
   price_per: One Time
-  info: Best For Bloggers
+  info: Best For Bloggers, eCommerce
   services:
   - Splash Screen
   - No Internet Detection
