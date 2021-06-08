@@ -16,6 +16,6 @@ description: This is meta description
 
 {{< faq "What files i'll get when order is completed?" >}} You will get .apk and .abb file along with keystore. You can use this to upload it on your google play console or any other marketplace. Additionally, If you buy source code then you will get compressed file of source code. {{</ faq >}}
 
-{{< faq "will i get the source code with the app?" >}} No, we do not provide source code with the app. If you want source code also please contact us {{</ faq >}}
+{{< faq "Will I get the source code with the app?" >}} No, we do not provide source code with the app. If source code is required please contact us. {{</ faq >}}
 
 {{< faq "Do I need to update my app frequently?" >}} No, you do not need to update your app. Any changes you make in your website will be automatically updated. {{</ faq >}}
