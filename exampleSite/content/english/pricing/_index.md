@@ -11,6 +11,7 @@ basic:
   - Splash Screen
   - Internet detection
   - Swipe to Refresh
+  - Exit Dialog Box
   - Upload and Download
   button:
     enable: true
