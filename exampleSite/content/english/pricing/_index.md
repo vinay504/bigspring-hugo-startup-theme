@@ -59,10 +59,10 @@ business:
     link: "#"
 call_to_action:
   enable: true
-  title: Need a larger plan?
+  title: Need a Custom Android App?
   image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  content: 'We will work with you and make sure your ideas are implemented as per
+    required. '
   button:
     enable: true
     label: Contact Us
