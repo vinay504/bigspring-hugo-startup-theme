@@ -66,6 +66,6 @@ call_to_action:
   button:
     enable: true
     label: Contact Us
-    link: contact
+    link: https://forms.gle/Spwmajux3ZkXULUt5
 
 ---
