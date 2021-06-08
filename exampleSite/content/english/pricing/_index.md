@@ -49,6 +49,7 @@ business:
   - Splash Screen
   - No Internet Detection
   - Swipe to refresh
+  - Exit Dialog Box
   - Upload and Download
   - Inbuilt Menu Options
   - Share App on Social Media
