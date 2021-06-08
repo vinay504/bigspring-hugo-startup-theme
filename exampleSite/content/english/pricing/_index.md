@@ -22,8 +22,6 @@ professional:
   price_per: One Time
   info: Best For increasing User Engagement
   services:
-  - Push Notification
-  - Timmed Star Rating Dialog Box
   - Splash Screen
   - No Internet Detection
   - Swipe to Refresh
@@ -33,6 +31,8 @@ professional:
   - Share App on Social Media
   - Rate App on Playstore
   - Inbuilt Social Media Buttons
+  - Timmed Star Rating Dialog Box
+  - Push Notification
   - Admob Banner and Interstitial Ad
   - Camera Permission
   button:
