@@ -32,10 +32,10 @@ professional:
     label: Get started for free
     link: "#"
 business:
-  name: Business Plan
-  price: "$49"
-  price_per: month
-  info: Best For Large Individuals
+  name: Professional Webview App
+  price: "$20"
+  price_per: One Time
+  info: Best For Bloggers
   services:
   - Express Service
   - Customs Clearance
