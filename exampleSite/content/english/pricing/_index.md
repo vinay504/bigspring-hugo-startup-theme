@@ -39,7 +39,7 @@ professional:
   button:
     enable: true
     label: Get started
-    link: "#"
+    link: https://forms.gle/odKVVx4rkfeJvfy5A
 business:
   name: Professional Webview App
   price: "$20"
