@@ -8,11 +8,11 @@ basic:
   price_per: वन टाइम
   info: शुरुआत के लिए सर्वश्रेष्ठ
   services:
-  - अपलोड करें और डाउनलोड करें
-  - डायलॉग बॉक्स से बाहर निकलें
   - स्प्लैश स्क्रीन
   - कोई इंटरनेट पहचान नहीं
   - ताज़ा करने के लिए स्वाइप करें
+  - डायलॉग बॉक्स से बाहर निकलें
+  - अपलोड करें और डाउनलोड करें
   button:
     enable: true
     label: शुरू हो जाओ
@@ -33,17 +33,23 @@ professional:
     label: Kostenlos starten
     link: "#"
 business:
-  name: Business Plan
-  price: "€49"
-  price_per: Monat
-  info: Ideal für Unternehmen
+  name: पेशेवर वेबव्यू ऐप
+  price: "$20"
+  price_per: वन टाइम
+  info: ब्लॉगर्स, ईकामर्स के लिए सर्वश्रेष्ठ
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
+  - इनबिल्ट सोशल मीडिया बटन
+  - स्प्लैश स्क्रीन
+  - कोई इंटरनेट पहचान नहीं
+  - ताज़ा करने के लिए स्वाइप करें
+  - डायलॉग बॉक्स से बाहर निकलें
+  - अपलोड करें और डाउनलोड करें
+  - इनबिल्ट मेनू विकल्प
+  - सोशल मीडिया पर शेयर ऐप
+  - Playstore पर ऐप को रेट करें
   button:
     enable: true
-    label: Kostenlos starten
+    label: शुरू हो जाओ
     link: "#"
 call_to_action:
   enable: true
