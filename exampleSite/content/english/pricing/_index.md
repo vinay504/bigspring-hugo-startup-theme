@@ -14,7 +14,7 @@ basic:
   - Upload and Download
   button:
     enable: true
-    label: Get started with Basic Plan
+    label: Get started
     link: "#"
 professional:
   name: Professional Plan
