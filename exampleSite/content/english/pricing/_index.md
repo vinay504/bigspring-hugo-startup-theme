@@ -16,7 +16,7 @@ basic:
   button:
     enable: true
     label: Get started
-    link: "#"
+    link: https://forms.gle/odKVVx4rkfeJvfy5A
 professional:
   name: Premium Webview App
   price: "$30"
