@@ -18,19 +18,21 @@ basic:
     label: शुरू हो जाओ
     link: "#"
 professional:
-  name: Professional Plan
-  price: "€49"
-  price_per: Monat
-  info: Ideal für Professionals
+  name: प्रीमियम वेबव्यू ऐप
+  price: "$30"
+  price_per: वन टाइम
+  info: उपयोगकर्ता जुड़ाव बढ़ाने के लिए सर्वश्रेष्ठ
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
-  - Cloud Service
-  - Best Dashboard
+  - स्प्लैश स्क्रीन
+  - कोई इंटरनेट पहचान नहीं
+  - ताज़ा करने के लिए स्वाइप करें
+  - अपलोड करें और डाउनलोड करें
+  - इनबिल्ट मेनू विकल्प
+  - सोशल मीडिया पर शेयर ऐप
+  - Playstore पर ऐप को रेट करें
   button:
     enable: true
-    label: Kostenlos starten
+    label: शुरू हो जाओ
     link: "#"
 business:
   name: पेशेवर वेबव्यू ऐप
