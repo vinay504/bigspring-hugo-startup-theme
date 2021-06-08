@@ -40,9 +40,14 @@ business:
   - Splash Screen
   - No Internet Detection
   - Swipe to refresh
+  - Upload and Download
+  - Inbuilt Menu Options
+  - Share App on Social Media
+  - Rate App on Playstore
+  - Inbuilt Social Media Buttons
   button:
     enable: true
-    label: Get started for free
+    label: Get started
     link: "#"
 call_to_action:
   enable: true
