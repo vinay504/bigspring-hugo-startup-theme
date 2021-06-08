@@ -27,7 +27,7 @@ feature:
   - name: Star Rating Dialog
     icon: fas fa-heart
     content: Encorage your user to give feedback in a effective way. Rank your app
-      in playstore search engine.
+      in playstore search engine
   - name: Inbuilt menu shortcuts
     icon: fas fa-tachometer-alt
     content: Gives professional Native Android look to your app. Handy shortcuts for
