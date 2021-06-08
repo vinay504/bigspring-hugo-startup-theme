@@ -77,7 +77,7 @@ service:
       link: ''
   - title: Sit back and let AI write your marketing copies
     images:
-    - images/conversionai.png
+    - images/robot.jpg
     content: Use AI to write proven, high converting copy for increased conversions
       and higher ROI. Instantly generate high-quality copy for ads, emails, websites,
       listings, blogs, and more...
