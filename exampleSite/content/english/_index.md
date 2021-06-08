@@ -6,7 +6,7 @@ banner:
     website traffic and engagement in a new way
   button:
     enable: true
-    label: Contact With Us
+    label: Connect With Us
     link: https://forms.gle/XCPiZkqaF3Eq1BPK9
 feature:
   enable: true
