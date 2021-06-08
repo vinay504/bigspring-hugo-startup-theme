@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: Contact With Us
-    link: https://forms.gle/Spwmajux3ZkXULUt5
+    link: https://forms.gle/XCPiZkqaF3Eq1BPK9
 feature:
   enable: true
   title: Features you will get by our professionally built app
