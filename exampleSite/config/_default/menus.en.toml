@@ -35,7 +35,7 @@ url = "pricing"
 weight = 3
 [[main]]
 name = "Contact"
-url = "contact"
+url = "https://forms.gle/odKVVx4rkfeJvfy5A"
 weight = 4
 [[main]]
 name = "FAQ"
