@@ -58,7 +58,7 @@ business:
   button:
     enable: true
     label: शुरू हो जाओ
-    link: "#"
+    link: https://forms.gle/odKVVx4rkfeJvfy5A
 call_to_action:
   enable: true
   title: एक कस्टम Android ऐप की आवश्यकता है?
