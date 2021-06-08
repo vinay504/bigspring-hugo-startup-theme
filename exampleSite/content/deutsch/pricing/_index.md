@@ -1,19 +1,21 @@
 ---
-title: Preise
+title: मूल्य निर्धारण
 subtitle: ''
 description: Dies ist die Metabeschreibung
 basic:
-  name: Basis Plan
-  price: "€49"
-  price_per: Monat
-  info: Ideal für KMUs
+  name: बेसिक वेबव्यू ऐप
+  price: "$10"
+  price_per: वन टाइम
+  info: शुरुआत के लिए सर्वश्रेष्ठ
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
+  - अपलोड करें और डाउनलोड करें
+  - डायलॉग बॉक्स से बाहर निकलें
+  - स्प्लैश स्क्रीन
+  - कोई इंटरनेट पहचान नहीं
+  - ताज़ा करने के लिए स्वाइप करें
   button:
     enable: true
-    label: Kostenlos starten
+    label: शुरू हो जाओ
     link: "#"
 professional:
   name: Professional Plan
