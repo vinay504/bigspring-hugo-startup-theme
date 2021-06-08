@@ -16,7 +16,7 @@ basic:
   button:
     enable: true
     label: शुरू हो जाओ
-    link: "#"
+    link: https://forms.gle/odKVVx4rkfeJvfy5A
 professional:
   name: प्रीमियम वेबव्यू ऐप
   price: "$30"
