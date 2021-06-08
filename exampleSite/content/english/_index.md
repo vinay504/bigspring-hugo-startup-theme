@@ -45,7 +45,7 @@ service:
     - images/smartphone.png
     - images/pokemon.jpg
     content: As per global stat 56% of people spend more time on mobile device as
-      compared to the desktop. It is expected to grow in future as more peoples connect
+      compared to the desktop. It is expected to grow in future as more people connect
       with the internet easily by their mobile devices. Currently there are 1.46 billion
       mobile phone users in the world.
     button:
