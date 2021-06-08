@@ -9,7 +9,7 @@ basic:
   info: Best For Starters
   services:
   - Splash Screen
-  - Internet detection
+  - No Internet detection
   - Swipe to Refresh
   - Exit Dialog Box
   - Upload and Download
