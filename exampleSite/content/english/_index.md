@@ -34,8 +34,8 @@ feature:
       easy navigation for your users
   - name: 'Upload download and Camera '
     icon: fas fa-cloud
-    content: Integrate special permission access with your android app for the smooth
-      user experiance
+    content: 'Integrate special permission access with your android app for the smooth
+      user experience '
 service:
   enable: true
   service_item:
