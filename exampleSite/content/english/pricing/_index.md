@@ -6,7 +6,7 @@ basic:
   name: Basic Webview App
   price: "$10"
   price_per: One Time
-  info: Best For Small Individuals
+  info: Best For Starters
   services:
   - Splash Screen
   - Internet detection
