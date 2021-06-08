@@ -39,7 +39,7 @@ professional:
   button:
     enable: true
     label: शुरू हो जाओ
-    link: "#"
+    link: https://forms.gle/odKVVx4rkfeJvfy5A
 business:
   name: पेशेवर वेबव्यू ऐप
   price: "$20"
