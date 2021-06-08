@@ -58,7 +58,7 @@ business:
   button:
     enable: true
     label: Get started
-    link: "#"
+    link: https://forms.gle/odKVVx4rkfeJvfy5A
 call_to_action:
   enable: true
   title: Need a Custom Android App?
