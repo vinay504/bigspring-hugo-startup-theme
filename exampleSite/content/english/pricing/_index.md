@@ -3,13 +3,14 @@ title: Pricing
 subtitle: ''
 description: This is meta description
 basic:
-  name: Basic Webview
+  name: Basic Webview App
   price: "$10"
   price_per: One Time
   info: Best For Small Individuals
   services:
   - Splash Screen
   - Internet detection
+  - Swipe to Refresh
   - Upload and Download
   button:
     enable: true
