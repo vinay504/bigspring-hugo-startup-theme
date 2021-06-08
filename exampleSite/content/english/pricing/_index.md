@@ -17,19 +17,27 @@ basic:
     label: Get started
     link: "#"
 professional:
-  name: Professional Plan
-  price: "$49"
-  price_per: month
-  info: Best For Professionals
+  name: Premium Webview App
+  price: "$30"
+  price_per: One Time
+  info: Best For increasing User Engagement
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
-  - Cloud Service
-  - Best Dashboard
+  - Push Notification
+  - Timmed Star Rating Dialog Box
+  - Splash Screen
+  - No Internet Detection
+  - Swipe to Refresh
+  - Exit dialog Box
+  - Upload and Download
+  - Inbuilt Menu Options
+  - Share App on Social Media
+  - Rate App on Playstore
+  - Inbuilt Social Media Buttons
+  - Admob Banner and Interstitial Ad
+  - Camera Permission
   button:
     enable: true
-    label: Get started for free
+    label: Get started
     link: "#"
 business:
   name: Professional Webview App
