@@ -31,7 +31,7 @@ feature:
   - name: Inbuilt menu shortcuts
     icon: fas fa-tachometer-alt
     content: Gives professional Native Android look to your app. Handy shortcuts for
-      easy navigations for your users.
+      easy navigation for your users.
   - name: 'Upload download and Camera '
     icon: fas fa-cloud
     content: Integrate special permission access with your android app for the smooth
