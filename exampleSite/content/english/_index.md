@@ -19,7 +19,7 @@ feature:
   - name: Admob integration
     icon: fas fa-object-group
     content: 'Increase your earning potential and monetize your app with google banner
-      and intertitial ads '
+      and Interstitial ads '
   - name: Push Notification
     icon: fas fa-user-clock
     content: Update your user with every new offer or blog post written by you with
