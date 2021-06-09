@@ -1,7 +1,8 @@
 ---
 title: लगातार पूछे जाने वाले प्रश्न
 subtitle: ''
-description: Dies ist die Metabeschreibung
+description: Convert your website into Android App. Increase your website traffic
+  in a new way. Check frquently ask questions.
 
 ---
 {{< faq "वेबव्यू ऐप क्या है?" >}}
