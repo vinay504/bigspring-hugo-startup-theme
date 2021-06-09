@@ -1,7 +1,8 @@
 ---
 title: Frequently Asked Questions
 subtitle: ''
-description: This is meta description
+description: Convert your website into Android App. Increase your website traffic
+  in a new way. Check frquently ask questions.
 
 ---
 {{< faq "What is the Webview App?" >}} Webview is a component used in android to view webpages. It will look and feel same as you view website in mobile browsers. {{</ faq >}}
