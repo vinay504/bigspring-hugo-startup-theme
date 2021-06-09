@@ -1,7 +1,8 @@
 ---
 title: मूल्य निर्धारण
 subtitle: ''
-description: Dies ist die Metabeschreibung
+description: Convert your website into Android App. Increase your website traffic
+  in a new way. Check our pricing plans.
 basic:
   name: बेसिक वेबव्यू ऐप
   price: "$10"
