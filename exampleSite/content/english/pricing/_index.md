@@ -1,7 +1,8 @@
 ---
 title: Pricing
 subtitle: ''
-description: This is meta description
+description: Convert your website into Android App. Increase your website traffic
+  in a new way. Check our pricing plans.
 basic:
   name: Basic Webview App
   price: "$10"
