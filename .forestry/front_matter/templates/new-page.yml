@@ -3,8 +3,8 @@ label: New Page
 hide_body: false
 fields:
 - type: text
-  name: title
-  label: title
+  name: About_Us
+  label: About Us
 - type: text
   name: subtitle
   label: subtitle
