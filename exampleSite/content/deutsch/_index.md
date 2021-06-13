@@ -64,7 +64,7 @@ service:
     button:
       enable: true
       label: Playstore से हमारा WebView Android ऐप डाउनलोड करें
-      link: "#"
+      link: https://play.google.com/store/apps/details?id=com.bakalesoftware.webviewapp
   - title: अपनी वेबसाइट का ट्रैफ़िक और उपयोगकर्ता जुड़ाव बढ़ाएँ
     images:
     - images/social-media.png
