@@ -77,7 +77,7 @@ service:
     button:
       enable: true
       label: Youtube पर हमारा ऐप डेमो वीडियो देखें
-      link: "#"
+      link: https://www.youtube.com/watch?v=_6V0j2qGFrA
   - title: आराम से बैठें और AI को अपनी मार्केटिंग कॉपी लिखने दें
     images:
     - images/robot.jpg
