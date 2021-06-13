@@ -74,7 +74,7 @@ service:
     button:
       enable: true
       label: Check out our app demo video on youtube
-      link: ''
+      link: https://www.youtube.com/watch?v=_6V0j2qGFrA
   - title: Sit back and let AI write your marketing copies
     images:
     - images/robot.jpg
