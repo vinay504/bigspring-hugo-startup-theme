@@ -62,7 +62,7 @@ service:
     button:
       enable: true
       label: Download our WebView Android App from Playstore
-      link: "#"
+      link: https://play.google.com/store/apps/details?id=com.bakalesoftware.webviewapp
   - title: Increase your website traffic and user engagment
     images:
     - images/social-media.png
