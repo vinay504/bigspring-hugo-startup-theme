@@ -1,103 +1,107 @@
 ---
 banner:
-  title: Convert your website into <br> Android App
-  image: images/banner-start.png
-  content: Grab the advantages of mobile market & Google playstore <br> Increase your
-    website traffic and engagement in a new way
+  title: Let us solve your critical website <br> development challenges
+  image: images/banner-art.svg
+  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
+    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
+    laborum officiis necessitatibus
   button:
     enable: true
-    label: Connect With Us
-    link: https://forms.gle/XCPiZkqaF3Eq1BPK9
+    label: Contact With Us
+    link: contact
 feature:
   enable: true
-  title: Features you will get by our professionally built app
+  title: Something You Need To Know
   feature_item:
-  - name: Auto Update
+  - name: Clean Code
     icon: fas fa-code
-    content: Any changes you make in your website will be automatically updated in
-      your android app
-  - name: Admob integration
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Object Oriented
     icon: fas fa-object-group
-    content: 'Increase your earning potential and monetize your app with google banner
-      and Interstitial ads '
-  - name: Push Notification
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: 24h Service
     icon: fas fa-user-clock
-    content: Update your user with every new offer or blog post written by you with
-      push notifications
-  - name: Star Rating Dialog
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Value For Money
     icon: fas fa-heart
-    content: Encorage your user to give feedback in a effective way. Rank your app
-      in playstore search engine
-  - name: Inbuilt menu shortcuts
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Faster Response
     icon: fas fa-tachometer-alt
-    content: Gives professional Native Android look to your app. Handy shortcuts for
-      easy navigation for your users
-  - name: 'Upload download and Camera '
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Cloud Support
     icon: fas fa-cloud
-    content: 'Integrate special permission access with your android app for the smooth
-      user experience '
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
 service:
   enable: true
   service_item:
-  - title: Unleash the potential of app market
+  - title: It is the most advanced digital marketing and it company.
     images:
-    - images/cellphone.jpg
-    - images/smartphone.png
-    - images/pokemon.jpg
-    content: As per global stat 56% of people spend more time on mobile device as
-      compared to the desktop. It is expected to grow in future as more people connect
-      with the internet easily by their mobile devices. Currently there are 1.46 billion
-      mobile phone users in the world.
+    - images/service-1.png
+    - images/service-2.png
+    - images/service-3.png
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
+      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
+      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
+      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
+      consquat.
     button:
-      enable: false
+      enable: true
       label: Check it out
       link: "#"
-  - title: Stay ahead of your competition
+  - title: It is a privately owned Information and cyber security company
     images:
-    - images/growth.png
-    content: Today, Android remains the dominant operating system globally, with a
-      76% market share. Start your journey with android app and later we can make
-      iOS app for you which has 23% market share globally. To test your website how
-      it will look download our app from playstore.
-    button:
-      enable: true
-      label: Download our WebView Android App from Playstore
-      link: https://play.google.com/store/apps/details?id=com.bakalesoftware.webviewapp
-  - title: Increase your website traffic and user engagment
-    images:
-    - images/social-media.png
-    content: With the android app you can get the benefit of playstore ASO which will
-      eventually help you to gain more traffic to your website. If you are selling
-      any products you can expect more ROI. Push notification will eventually help
-      you with user engagement on your site. We have included all advanced features
-      which will help you to reach your goals. Check out our app video on youtube
-    button:
-      enable: true
-      label: Check out our app demo video on youtube
-      link: https://www.youtube.com/watch?v=_6V0j2qGFrA
-  - title: Sit back and let AI write your marketing copies
-    images:
-    - images/robot.jpg
-    content: Use AI to write proven, high converting copy for increased conversions
-      and higher ROI. Instantly generate high-quality copy for ads, emails, websites,
-      listings, blogs, and more...
+    - images/service-1.png
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
+      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
+      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
+      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
+      consquat.
     button:
       enable: true
       label: Check it out
-      link: https://conversion.ai?fpr=bakales
+      link: "#"
+  - title: It’s a team of experienced and skilled people with distributions
+    images:
+    - images/service-2.png
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
+      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
+      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
+      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
+      consquat.
+    button:
+      enable: true
+      label: Check it out
+      link: "#"
+  - title: A company standing different from others
+    images:
+    - images/service-3.png
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
+      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
+      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
+      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
+      consquat.
+    button:
+      enable: true
+      label: Check it out
+      link: "#"
 screenshot:
   enable: true
-  title: Publish Your Android App now on Playstore with Bakales
-  image: images/user-interface.png
+  title: Experience the best <br> workflow with us
+  image: images/screenshot.svg
 call_to_action:
   enable: true
   title: Ready to get started?
   image: images/cta.svg
-  content: Customer satisfaction is our prime priority. <br> Feel free to contact
-    us.
+  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
+    eget amet, tempus eu at consecttur.
   button:
     enable: true
     label: Contact Us
-    link: https://forms.gle/Spwmajux3ZkXULUt5
+    link: contact
+About_Us: Convert Your Website Into Android App
+subtitle: Increase your webiste traffic in a new way. Unleash the potential of mobile
+  market.
+description: Increase your website Traffic and user engagement with your android app.
+  Any changes you make will be automatically refelected inside your android app.
 
 ---
