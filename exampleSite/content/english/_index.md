@@ -98,10 +98,8 @@ call_to_action:
     enable: true
     label: Contact Us
     link: contact
-About_Us: Convert Your Website Into Android App
-subtitle: Increase your webiste traffic in a new way. Unleash the potential of mobile
-  market.
-description: Increase your website Traffic and user engagement with your android app.
-  Any changes you make will be automatically refelected inside your android app.
+About_Us: ''
+subtitle: ''
+description: ''
 
 ---
