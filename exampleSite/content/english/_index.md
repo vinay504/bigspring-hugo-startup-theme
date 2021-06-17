@@ -1,105 +1,103 @@
 ---
 banner:
-  title: Let us solve your critical website <br> development challenges
-  image: images/banner-art.svg
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  title: Convert your website into <br> Android App
+  image: images/banner-start.png
+  content: Grab the advantages of mobile market & Google playstore <br> Increase your
+    website traffic and engagement in a new way
   button:
     enable: true
-    label: Contact With Us
-    link: contact
+    label: Connect With Us
+    link: https://forms.gle/XCPiZkqaF3Eq1BPK9
 feature:
   enable: true
-  title: Something You Need To Know
+  title: Features you will get by our professionally built app
   feature_item:
-  - name: Clean Code
+  - name: Auto Update
     icon: fas fa-code
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Object Oriented
+    content: Any changes you make in your website will be automatically updated in
+      your android app
+  - name: Admob integration
     icon: fas fa-object-group
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: 24h Service
+    content: 'Increase your earning potential and monetize your app with google banner
+      and Interstitial ads '
+  - name: Push Notification
     icon: fas fa-user-clock
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Value For Money
+    content: Update your user with every new offer or blog post written by you with
+      push notifications
+  - name: Star Rating Dialog
     icon: fas fa-heart
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Faster Response
+    content: Encorage your user to give feedback in a effective way. Rank your app
+      in playstore search engine
+  - name: Inbuilt menu shortcuts
     icon: fas fa-tachometer-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Cloud Support
+    content: Gives professional Native Android look to your app. Handy shortcuts for
+      easy navigation for your users
+  - name: 'Upload download and Camera '
     icon: fas fa-cloud
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: 'Integrate special permission access with your android app for the smooth
+      user experience '
 service:
   enable: true
   service_item:
-  - title: It is the most advanced digital marketing and it company.
+  - title: Unleash the potential of app market
     images:
-    - images/service-1.png
-    - images/service-2.png
-    - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    - images/cellphone.jpg
+    - images/smartphone.png
+    - images/pokemon.jpg
+    content: As per global stat 56% of people spend more time on mobile device as
+      compared to the desktop. It is expected to grow in future as more people connect
+      with the internet easily by their mobile devices. Currently there are 1.46 billion
+      mobile phone users in the world.
+    button:
+      enable: false
+      label: Check it out
+      link: "#"
+  - title: Stay ahead of your competition
+    images:
+    - images/growth.png
+    content: Today, Android remains the dominant operating system globally, with a
+      76% market share. Start your journey with android app and later we can make
+      iOS app for you which has 23% market share globally. To test your website how
+      it will look download our app from playstore.
+    button:
+      enable: true
+      label: Download our WebView Android App from Playstore
+      link: https://play.google.com/store/apps/details?id=com.bakalesoftware.webviewapp
+  - title: Increase your website traffic and user engagment
+    images:
+    - images/social-media.png
+    content: With the android app you can get the benefit of playstore ASO which will
+      eventually help you to gain more traffic to your website. If you are selling
+      any products you can expect more ROI. Push notification will eventually help
+      you with user engagement on your site. We have included all advanced features
+      which will help you to reach your goals. Check out our app video on youtube
+    button:
+      enable: true
+      label: Check out our app demo video on youtube
+      link: https://www.youtube.com/watch?v=_6V0j2qGFrA
+  - title: Sit back and let AI write your marketing copies
+    images:
+    - images/robot.jpg
+    content: Use AI to write proven, high converting copy for increased conversions
+      and higher ROI. Instantly generate high-quality copy for ads, emails, websites,
+      listings, blogs, and more...
     button:
       enable: true
       label: Check it out
-      link: "#"
-  - title: It is a privately owned Information and cyber security company
-    images:
-    - images/service-1.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
-    button:
-      enable: true
-      label: Check it out
-      link: "#"
-  - title: It’s a team of experienced and skilled people with distributions
-    images:
-    - images/service-2.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
-    button:
-      enable: true
-      label: Check it out
-      link: "#"
-  - title: A company standing different from others
-    images:
-    - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
-    button:
-      enable: true
-      label: Check it out
-      link: "#"
+      link: https://conversion.ai?fpr=bakales
 screenshot:
   enable: true
-  title: Experience the best <br> workflow with us
-  image: images/screenshot.svg
+  title: Publish Your Android App now on Playstore with Bakales
+  image: images/user-interface.png
 call_to_action:
   enable: true
   title: Ready to get started?
   image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  content: Customer satisfaction is our prime priority. <br> Feel free to contact
+    us.
   button:
     enable: true
     label: Contact Us
-    link: contact
-About_Us: ''
-subtitle: ''
-description: ''
+    link: https://forms.gle/Spwmajux3ZkXULUt5
 
 ---
